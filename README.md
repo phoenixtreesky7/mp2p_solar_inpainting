@@ -4,7 +4,7 @@ Mask-Pix2Pix Network for Over-Exposure Region Recovery of Solar Image
 This is a pyTorch code for Over-Exposure Region Recovery of Solar Image using a Mask-Pix2Pix Network.
 
 # Train
-You can train this model by following processing:
+You can train this model as follows:
 
     git clone https://github.com/phoenixtreesky7/mp2p_solar_inpainting.git
     cd mp2p_solar_inpainting/implementations/mp2p/
