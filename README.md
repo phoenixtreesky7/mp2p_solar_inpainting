@@ -1,5 +1,4 @@
 # mp2p_solar_inpainting
-Mask-Pix2Pix Network for Over-Exposure Region Recovery of Solar Image
 
 This is a pyTorch code for Over-Exposure Region Recovery of Solar Image using a Mask-Pix2Pix Network.
 
