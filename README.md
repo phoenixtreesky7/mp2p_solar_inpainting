@@ -9,7 +9,7 @@ You can train this model as follows:
     cd mp2p_solar_inpainting/implementations/mp2p/
     python3 mask_pix2pix.py --dataset_name solar --datasave_name solar --batch_size 8
 
-The code is built on the work of [pix2pix(PyTorch GAN)](https://github.com/eriklindernoren/PyTorch-GAN)
+The code is built on the work of [pix2pix(PyTorch GAN)](https://github.com/eriklindernoren/PyTorch-GAN).
 # Mask-Pix2Pix
 
 The main improvements and contributions of this paper are: 
